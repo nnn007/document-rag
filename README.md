@@ -9,6 +9,11 @@ to create an intelligent chatbot capable of handling a wide range of queries,
 including those involving tables and images present in documents. Needless to say
 it also handles your general LLM queries as well.
 
+Aim is to create a full-fledged personal assistant bot capable of running in your local system. 
+For now using LLM APIs which can be later converted to personal server calls once capable of 
+hosting a good model in local!
+
+
 ## Features
 
 - **Natural Language Understanding:** Accurately understands and responds to user queries.
@@ -70,6 +75,9 @@ We welcome contributions from the community! Please follow these steps:
     git push origin feature-branch
     ```
 5. **Create a Pull Request**
+
+   This app has a lot of scope of improvements and will be updating it in coming time so contributions are welcome! 
+   Just putting up a basic implementation here. 
 
 ## License
 
